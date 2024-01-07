@@ -7,7 +7,7 @@ Python Code which predicts the digit made on the image
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Python Libraries - Numpy, sklearn, tensorflow , cv2(openCV)
+- Python Libraries - Numpy, pandas , sklearn, tensorflow , cv2(openCV)
 
 ***
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Knowlege Required
 - Artificial neural network (ANN) 
 - Transfer Learning
-- Python Libraries -  Numpy, sklearn, tensorflow , cv2(openCV)
+- Python Libraries -  Numpy, pandas , sklearn, tensorflow , cv2(openCV)
 
 ### Tools
 - Vs code or Google Collab
