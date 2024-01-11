@@ -27,7 +27,6 @@ pip install -r requirements.txt
 
 ### Knowlege Required
 - Artificial neural network (ANN) 
-- Transfer Learning
 - Python Libraries -  Numpy, pandas , sklearn, tensorflow , cv2(openCV)
 
 ### Tools
