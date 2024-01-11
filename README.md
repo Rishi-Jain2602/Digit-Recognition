@@ -1,6 +1,6 @@
 # Digit-Recognition
 
-Python Code which predicts the digit made on the image
+A deep learning project which predicts the digit made on the image
 
 ***
 
